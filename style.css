@@ -1,0 +1,47 @@
+ 
+body {
+    background-image: url('Acme.jpg');
+        background-repeat: no-repeat;  
+        width:100%;
+        height:100%; 
+        background-size: cover;
+        background-position: center;
+        position: absolute;   
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+img{
+margin-left: 25px;
+margin-right: 25px;
+}
+h1 {
+    float:center;
+    margin-top: -5%;
+    margin-left: 20%;
+    font-size: 30px;
+}
+h2 {
+    float:center;
+    margin-left:10%;
+    font-size: 20px;
+}
+h3{
+    float:center;
+    margin-left: 7%;
+    font-size: 20px;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(114, 55, 55);
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+a {
+    color:rgb(32, 80, 80);
+    margin-right: 10%;
+    font-weight: bolder;
+}
